@@ -21,7 +21,7 @@ The database was designed and normalised to Third Normal Form (3NF) and includes
 
 ## Entity Relationship Diagram
 
-![Hospital_ERD](images/Hospital_ERD.png)
+![Hospital_ERD](Images/Hospital_ERD.png)
 
 ## Technologies
 
